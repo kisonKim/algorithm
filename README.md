@@ -4,4 +4,5 @@
 ## Theory
 - [x] Greedy (1,2,3)
 - [x] Implementation (4,5,6)
-- [x] DFS (7)
+- [x] DFS (7,7-1)
+- [x] BFS (8)
